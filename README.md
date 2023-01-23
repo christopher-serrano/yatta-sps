@@ -1,0 +1,1 @@
+# Seattle Search Place (YATTA)
