@@ -1,7 +1,8 @@
-package yatta.serranocjm.sps
+package yatta.serranocjm.sps.ui.activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import yatta.serranocjm.sps.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
